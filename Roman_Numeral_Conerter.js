@@ -1,3 +1,4 @@
+//This function displays the roman numeral representation of a number on the console
 function convertToRoman(num) {
   let result = "";
   
